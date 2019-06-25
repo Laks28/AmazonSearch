@@ -2,7 +2,7 @@
 Testing Amazon Product Search using Selenium - Web End User Validation
 
 # Problem Statement
-To automated test for one of the scenarios which i have identified and how the tools mentioned below helped me to acheive the purpose
+To automate test for one of the scenarios which i have identified and how the tools mentioned below helped me to acheive the purpose.
 
 ## Getting Started
 
