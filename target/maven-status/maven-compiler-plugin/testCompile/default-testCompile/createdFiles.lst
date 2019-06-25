@@ -1,0 +1,4 @@
+com\amazon\search\test\TestProductSearch.class
+com\amazon\search\common\TestNgTestBase.class
+com\amazon\search\common\SuiteConfiguration.class
+com\amazon\search\AppTest.class

@@ -1,0 +1,10 @@
+com\amazon\search\pages\ProductListPage.class
+com\amazon\search\App.class
+com\amazon\search\pages\HomePage.class
+com\amazon\search\objectrepo\ObjectRepo$ProductDetailPage.class
+com\amazon\search\objectrepo\ObjectRepo.class
+com\amazon\search\objectrepo\ObjectRepo$HomePage.class
+com\amazon\search\pages\Page.class
+com\amazon\search\objectrepo\ObjectRepo$ProductListPage.class
+com\amazon\search\pages\ProductDetailsPage.class
+com\amazon\search\utils\SyncHelper.class
